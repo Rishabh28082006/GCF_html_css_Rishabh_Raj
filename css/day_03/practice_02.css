@@ -1,0 +1,31 @@
+*{
+padding: 0%;
+margin: 0%;
+}
+.sq{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: 100px groove blue;
+
+}
+#title{
+    font-size: 20px;
+    background-color: black;
+    width: 120px;
+    color: white;
+    padding: 10px 20px 40px 20px;
+}
+.btn2{
+    font-size: large;
+    background-color: red;
+    padding: 10px 30px;
+    margin-top: 10px;
+    margin-left: 0px;
+    color: white;
+    border: 15px groove yellow;
+
+}
+    

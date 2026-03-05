@@ -1,0 +1,26 @@
+#h{
+    color: red;
+    font-weight: 100;
+    text-align: center;
+    
+    
+    
+}
+.d{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+}
+.d:hover{
+    color: blue;
+    font-weight: 900;
+    text-align: center;
+    background-color: black;
+}
+
+.d2{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+    border-radius: 50%;
+}
